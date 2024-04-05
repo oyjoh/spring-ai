@@ -51,6 +51,7 @@
 		<module>vector-stores/spring-ai-neo4j-store</module>
 		<module>document-readers/pdf-reader</module>
 		<module>document-readers/tika-reader</module>
+		<module>document-readers/tika-remote-reader</module>
 		<module>vector-stores/spring-ai-pinecone</module>
 		<module>vector-stores/spring-ai-chroma</module>
 		<module>vector-stores/spring-ai-azure</module>
